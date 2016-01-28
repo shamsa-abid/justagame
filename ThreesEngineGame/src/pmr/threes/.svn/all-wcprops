@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/src/pmr/threes
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/src/pmr/threes/State.java
+END
+HoleCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/src/pmr/threes/HoleCard.java
+END
+Root.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/src/pmr/threes/Root.java
+END
+ThreesGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/src/pmr/threes/ThreesGame.java
+END
+Up.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/src/pmr/threes/Up.java
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/src/pmr/threes/Board.java
+END
+Left.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/src/pmr/threes/Left.java
+END
+Choice.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/src/pmr/threes/Choice.java
+END
+AbstractMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/src/pmr/threes/AbstractMove.java
+END
+AmbiguousHoleCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/src/pmr/threes/AmbiguousHoleCard.java
+END
+NullMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/src/pmr/threes/NullMove.java
+END
+RegularHoleCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/src/pmr/threes/RegularHoleCard.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/src/pmr/threes/Move.java
+END
+Down.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/src/pmr/threes/Down.java
+END
+Right.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/src/pmr/threes/Right.java
+END
